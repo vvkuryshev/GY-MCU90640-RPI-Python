@@ -17,7 +17,7 @@ def get_temp_array(d):
 
 	# getting raw array of pixels temperature
 	raw_data = d[4:1540]
-	T_array = np.frombuffer(raw_data, dtype=np.uint16)
+	T_array = np.frombuffer(raw_data, dtype=np.int16)
 	
 	return T_a, T_array
 
