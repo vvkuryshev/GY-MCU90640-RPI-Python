@@ -8,4 +8,4 @@ The protocol of interaction with the module is shown in the file "GY_MCU9064 use
 
 The resulting images and the scheme of connection the module with the Raspberry Pi are shown in the image above. The main.py script is tested for RPI 3 B + and RPI Zero W.
 
-Description of the connection process is on https://habr.com/ru/post/435946/. Unfortunately, only in Russian, but you can use Google Translator too)
+The description of connection process is on https://habr.com/ru/post/435946/. Unfortunately, only in Russian, but you can use Google Translator too )
