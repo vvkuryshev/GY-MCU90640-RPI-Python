@@ -10,4 +10,4 @@ The resulting images and the scheme of connection the module with the Raspberry 
 
 The description of connection process is on https://habr.com/ru/post/441050/ (or https://habr.com/ru/post/435946/, if you are reading in Russian)
 
-You can also check https://github.com/tomshaffner/PiThermalCam with exellent explanation here: https://tomshaffner.github.io/PiThermalCam/. The author made a great work and now you can install the package to wirk with GY-MCU90640 from pip manager.
+You can also check https://github.com/tomshaffner/PiThermalCam with exellent explanation here: https://tomshaffner.github.io/PiThermalCam/. The author made a great work and now you can install the package to work with GY-MCU90640 from pip manager.
